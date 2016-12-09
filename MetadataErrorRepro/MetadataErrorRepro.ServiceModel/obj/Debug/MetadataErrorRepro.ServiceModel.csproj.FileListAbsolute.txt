@@ -1,0 +1,6 @@
+C:\Source\Repos\MetadataErrorRepro\MetadataErrorRepro\MetadataErrorRepro.ServiceModel\bin\Debug\MetadataErrorRepro.ServiceModel.dll
+C:\Source\Repos\MetadataErrorRepro\MetadataErrorRepro\MetadataErrorRepro.ServiceModel\bin\Debug\MetadataErrorRepro.ServiceModel.pdb
+C:\Source\Repos\MetadataErrorRepro\MetadataErrorRepro\MetadataErrorRepro.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\Source\Repos\MetadataErrorRepro\MetadataErrorRepro\MetadataErrorRepro.ServiceModel\obj\Debug\MetadataErrorRepro.ServiceModel.csprojResolveAssemblyReference.cache
+C:\Source\Repos\MetadataErrorRepro\MetadataErrorRepro\MetadataErrorRepro.ServiceModel\obj\Debug\MetadataErrorRepro.ServiceModel.dll
+C:\Source\Repos\MetadataErrorRepro\MetadataErrorRepro\MetadataErrorRepro.ServiceModel\obj\Debug\MetadataErrorRepro.ServiceModel.pdb
