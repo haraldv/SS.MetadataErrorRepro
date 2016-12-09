@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetadataErrorRepro.ServiceM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetadataErrorRepro.ServiceInterface", "MetadataErrorRepro\MetadataErrorRepro.ServiceInterface\MetadataErrorRepro.ServiceInterface.csproj", "{801A0F89-D5F6-49A6-BCEA-6624388C98A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetadataErrorRepro.Another.ServiceModel", "MetadataErrorRepro\MetadataErrorRepro.Not.ServiceModel\MetadataErrorRepro.Another.ServiceModel.csproj", "{7E6A66F3-60F5-40F7-B6CC-6CCC2FA884F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetadataErrorRepro.Another.ServiceModel", "MetadataErrorRepro\MetadataErrorRepro.Another.ServiceModel\MetadataErrorRepro.Another.ServiceModel.csproj", "{7E6A66F3-60F5-40F7-B6CC-6CCC2FA884F9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetadataErrorRepro.Another.ServiceInterface", "MetadataErrorRepro\MetadataErrorRepro.Another.ServiceInterface\MetadataErrorRepro.Another.ServiceInterface.csproj", "{A244FF13-6707-4A47-9F3D-48177B59F739}"
 EndProject

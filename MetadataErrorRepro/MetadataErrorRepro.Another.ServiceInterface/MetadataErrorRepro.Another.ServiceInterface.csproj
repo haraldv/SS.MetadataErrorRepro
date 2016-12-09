@@ -52,7 +52,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MetadataErrorRepro.Not.ServiceModel\MetadataErrorRepro.Another.ServiceModel.csproj">
+    <ProjectReference Include="..\MetadataErrorRepro.Another.ServiceModel\MetadataErrorRepro.Another.ServiceModel.csproj">
       <Project>{7E6A66F3-60F5-40F7-B6CC-6CCC2FA884F9}</Project>
       <Name>MetadataErrorRepro.Another.ServiceModel</Name>
     </ProjectReference>
