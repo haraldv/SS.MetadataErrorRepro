@@ -1,5 +1,0 @@
-C:\Source\Repos\MetadataErrorRepro\MetadataErrorRepro\MetadataErrorRepro.Not.ServiceModel\bin\Debug\MetadataErrorRepro.Another.ServiceModel.dll
-C:\Source\Repos\MetadataErrorRepro\MetadataErrorRepro\MetadataErrorRepro.Not.ServiceModel\bin\Debug\MetadataErrorRepro.Another.ServiceModel.pdb
-C:\Source\Repos\MetadataErrorRepro\MetadataErrorRepro\MetadataErrorRepro.Not.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
-C:\Source\Repos\MetadataErrorRepro\MetadataErrorRepro\MetadataErrorRepro.Not.ServiceModel\obj\Debug\MetadataErrorRepro.Another.ServiceModel.dll
-C:\Source\Repos\MetadataErrorRepro\MetadataErrorRepro\MetadataErrorRepro.Not.ServiceModel\obj\Debug\MetadataErrorRepro.Another.ServiceModel.pdb
